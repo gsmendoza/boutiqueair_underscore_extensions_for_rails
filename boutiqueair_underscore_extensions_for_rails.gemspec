@@ -19,5 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 3.1.6"
   s.add_dependency "underscore-rails"
 
+  s.add_development_dependency 'capybara'
+  s.add_development_dependency 'minitest'
   s.add_development_dependency "sqlite3"
 end
