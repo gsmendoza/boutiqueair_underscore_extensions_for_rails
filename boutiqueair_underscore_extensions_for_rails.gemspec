@@ -7,11 +7,11 @@ require "boutiqueair_underscore_extensions_for_rails/version"
 Gem::Specification.new do |s|
   s.name        = "boutiqueair_underscore_extensions_for_rails"
   s.version     = BoutiqueairUnderscoreExtensionsForRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of BoutiqueairUnderscoreExtensionsForRails."
-  s.description = "TODO: Description of BoutiqueairUnderscoreExtensionsForRails."
+  s.authors     = ["George Mendoza"]
+  s.email       = ["gsmendoza@gmail.com"]
+  s.homepage    = "http://www.boutiqueair.com"
+  s.summary     = "Boutiqueair Underscore Extensions as Rails asset pipeline gem."
+  s.description = "Boutiqueair Underscore Extensions as Rails asset pipeline gem."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
