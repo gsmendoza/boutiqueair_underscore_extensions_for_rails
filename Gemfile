@@ -6,6 +6,7 @@ source "http://rubygems.org"
 gemspec
 
 # jquery-rails is used by the dummy application
+gem "jasmine"
 gem "jquery-rails"
 gem "underscore-rails"
 
