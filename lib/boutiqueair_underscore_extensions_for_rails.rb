@@ -1,2 +1,4 @@
+require 'boutiqueair_underscore_extensions_for_rails/engine.rb'
+
 module BoutiqueairUnderscoreExtensionsForRails
 end
